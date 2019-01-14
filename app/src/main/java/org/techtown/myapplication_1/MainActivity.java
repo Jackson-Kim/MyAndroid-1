@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        // 이벤트리스너. 생성될때.
+        // 이벤트리스너. 생성될때. ㅎㅎ
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
