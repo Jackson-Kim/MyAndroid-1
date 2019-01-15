@@ -10,5 +10,9 @@ public class MainActivity extends AppCompatActivity {
         // 이벤트리스너. 생성될때. ㅎㅎ
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+
     }
 }
